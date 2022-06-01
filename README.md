@@ -11,3 +11,4 @@ Here you can access the solutions by the used technique.
 6. [**Sets and Dictionaries Advanced - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Sets%20and%20Dictionaries%20Advanced%20-%20more%20solutions)
 7. [**Streams, Files and Directories**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Streams%2C%20Files%20and%20Directories)
 8. [**Streams, Files and Directories - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Strems%2C%20Files%20and%20Directories%20-%20more%20solutions)
+9. [**Functional Programming**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Functional%20Programming)
