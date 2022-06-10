@@ -14,3 +14,4 @@ Here you can access the solutions by the used technique.
 9. [**Functional Programming**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Functional%20Programming)
 10. [**Functional Programming - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Functional%20Programming%20-%20more%20solutions)
 11. [**Defining Classes**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Defining%20Classes)
+12. [**Defining Classes - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Defining%20Classes%20-%20more%20solutions)
