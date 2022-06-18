@@ -17,3 +17,4 @@ Here you can access the solutions by the used technique.
 12. [**Defining Classes - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Defining%20Classes%20-%20more%20solutions)
 13. [**Generics**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Generics)
 14. [**Generics - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Generics%20-%20more%20solutions)
+15. [**Iterators and Comparators**](https://github.com/StanchosCodes/SoftUni-CSharp-Advanced/tree/main/Iterators%20and%20Comparators)
